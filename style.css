@@ -19,7 +19,7 @@ a{
     background-size: 1330px;
     background-position: right bottom;
     background-repeat: no-repeat;
-    background-image: url("../images/ador.jpg");
+    background-image: url("/images/ador.jpg");
     background-color: #edf1fd;
 }
 nav{
